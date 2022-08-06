@@ -1,4 +1,5 @@
-### Hi Folks I'm rudra 👋
+### Hello Folks! 👋🏻
+###  I'm rudra 😎
 
 - 🔭 I'm an engineering student.
 - 🌱 I'm currently learning Data Analytics and AI/ML.
