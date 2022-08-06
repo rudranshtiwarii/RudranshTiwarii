@@ -3,6 +3,8 @@
 - 🔭 I'm an engineering student.
 - 🌱 I'm currently learning Data Analytics and AI/ML.
 - 📫 rudranshtiwari1402@gmail.com
+- 🔗 connect me on Linked.in 
+-     www.linkedin.com/in/rudranshtiwari
 <!--
 **rudranshtiwarii/rudranshtiwarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
