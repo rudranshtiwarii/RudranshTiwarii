@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🙋🏻‍♂️ Hii I'm Rudransh.
+- 🔭 I'm an engineering student.
+- 🌱 I'm currently learning Data Analytics and AI/ML.
+- 📫 rudranshtiwari1402@gmail.com
 <!--
 **rudranshtiwarii/rudranshtiwarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
