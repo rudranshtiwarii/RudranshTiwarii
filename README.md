@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi Folks I'm rudra 👋
 
-- 🙋🏻‍♂️ Hii I'm Rudransh.
 - 🔭 I'm an engineering student.
 - 🌱 I'm currently learning Data Analytics and AI/ML.
 - 📫 rudranshtiwari1402@gmail.com
