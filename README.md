@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm an engineering student.<br>📈 I'm an aspiring Data Analyst.<br>🌱 I'm currently Learning Data science and AI/ML.<br>😄 Pronouns: He/His<br>📫 rudranshtiwari1402@gmail.com<br>🔗 connect me on Linkedin<br>www.linkedin.com/in/rudranshtiwari
+🔭 I'm an engineering student.<br>📈 I'm an aspiring Data Analyst.<br>🌱 I'm currently Learning Data science and AI/ML.<br>😄 Pronouns: He/His<br>📫 rudranshtiwari1402@gmail.com<br>
 
 
 ## 🌐 Socials:
